@@ -19,6 +19,9 @@ public class Todo {
         this.order = order;
     }
 
+    public Todo() {
+    }
+
     public String getTitle() {
         return title;
     }
